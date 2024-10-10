@@ -3,17 +3,27 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/wed.jpg
 ---
 
 :::{#me}
 
-## Goals
+## Little Intro.
 
-## Education
+Hey gang - welcome to my website! My name is Nathalie (I use she/her pronouns). I am the middle child of a younger brother and an older sister. The picture to the left shows my little brother on the left, then my sister in the middle, and me on the right, taken by the lovely Frannie Marie. I have a dog named Leila and two brother cats named Minke and Mako. My favorite color is green, my favorite fruit is the raspberry, and my favorite animal is the killer whale. I've made it a goal of mine to travel to the Pacific Northwest to see them in the wild (soon, hopefully)!
 
-## Experience
+## Education/Future Goals
+
+I am a senior undergraduate at the University of New Hampshire studying Marine, Estuarine, and Freshwater Biology. Some of my favorite courses I took at UNH were through the Shoals Marine Laboratory on Appledore Island. I got my scientific diving certificate taking a course called Underwater Research and got to plan my own dives for a small research project. I also got to participate in several marine mammal necropsies and marine vertebrate dissections taking classes like Marine Mammal Biology and Anatomy and Function of Marine Vertebrates. I am finishing up a Whale Research Internship with the Blue Ocean Society this week, and hope to do lots more field work like it in the future after I graduate this May. I may pursue a Master's later down the road, but unsure of that as of right now!
+
+## Fun Facts
+
+- I saw a blue whale in the Gulf of Maine this summer (twice!).
+- I share a birthday with Bruno Mars.
+- My high score in Crossy Road is 929.
+- The LEGO Batman Movie is in my top 3 movies of all time.
+- My sister got married in Montana this summer!
 
 :::
 
-Thanks for checking out my web site!
+*Thanks for checking out my website!*

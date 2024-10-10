@@ -1,26 +1,22 @@
-project:
-  type: website
-  output-dir: docs
-  
 website:
-  title: "MY WEB SITE"
+  title: "Nat's Super Sexy Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: www.linkedin.com/in/nathalie-pare
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://github.com/natpare/NatsSuperSexyWebsite.git
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2024, Nathalie Pare"
 
 format:
   html:
-    theme: cerulean
+    theme: sandstone
     toc: true
 
 editor: source

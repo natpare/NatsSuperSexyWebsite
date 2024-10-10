@@ -2,8 +2,29 @@
 title: "Projects"
 ---
 
-## Project 1
+## Whale Research Internship
 
-## Project 2
+This summer and fall, I have worked as a whale research intern through the Blue Ocean Society abord the M/V Granite State recording data about marine mammals and large fish we see, as well as marine debris. It has been a phenomenal year of whale watching, so I wanted to include some images I've taken of some rare sightings we've had!
 
-## Project 3
+Blue Whale!
+![Blue Whale](img/blue_whale.jpg)
+
+Smooth Hammerhead Shark!
+![Hammerhead](img/hammerhead.jpg)
+
+Swordfish!
+![Swordfish](img/swordfish.jpg)
+
+Pilot Whales!
+![Baby Pilot Whale](img/pilot_whale.jpg)
+
+Common Dolphins!
+![Common Dolphin](img/common_dolphin.jpg)
+
+## Seal Acoustics
+
+I am working with BIOL860's own Jess Veo on her grey seal overwintering acoustic project!
+
+## Humpbacks and Vessel Noise (and more acoustics)
+
+Last year, I worked with Melanie Smith to annotate humpback whale, killer whale, and harbor seal vocalizations as well as vessel noise in Southeast Alaska for her Master's project!
